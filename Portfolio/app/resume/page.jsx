@@ -72,7 +72,7 @@ const education = {
     items : [
         {
             institution : "University of Dhaka",
-            degree : "Bachelor's Sciece in Software Enginerring",
+            degree : "Bachelor of Science in Software Engineering",
             duration : "2020 - Present",
             // result : "CGPA : 3.81/4.00"
         },
